@@ -1,0 +1,9 @@
+E:\projects c#\downloadingBar\downloadingBar\bin\Debug\downloadingBar.exe.config
+E:\projects c#\downloadingBar\downloadingBar\bin\Debug\downloadingBar.exe
+E:\projects c#\downloadingBar\downloadingBar\bin\Debug\downloadingBar.pdb
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.csprojResolveAssemblyReference.cache
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.Form1.resources
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.Properties.Resources.resources
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.csproj.GenerateResource.Cache
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.exe
+E:\projects c#\downloadingBar\downloadingBar\obj\Debug\downloadingBar.pdb

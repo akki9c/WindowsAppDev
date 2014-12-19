@@ -1,0 +1,27 @@
+E:\projects c#\TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe.config
+E:\projects c#\TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe
+E:\projects c#\TokenSystem\TokenSystem\bin\Debug\TokenSystem.pdb
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.csprojResolveAssemblyReference.cache
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.Form1.resources
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.Properties.Resources.resources
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.csproj.GenerateResource.Cache
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.exe
+E:\projects c#\TokenSystem\TokenSystem\obj\Debug\TokenSystem.pdb
+H:\TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe.config
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.exe
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.pdb
+H:\TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe
+H:\TokenSystem\TokenSystem\bin\Debug\TokenSystem.pdb
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.csprojResolveAssemblyReference.cache
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.Form1.resources
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.Properties.Resources.resources
+H:\TokenSystem\TokenSystem\obj\Debug\TokenSystem.csproj.GenerateResource.Cache
+H:\ \TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe.config
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.exe
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.pdb
+H:\ \TokenSystem\TokenSystem\bin\Debug\TokenSystem.exe
+H:\ \TokenSystem\TokenSystem\bin\Debug\TokenSystem.pdb
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.csprojResolveAssemblyReference.cache
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.Form1.resources
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.Properties.Resources.resources
+H:\ \TokenSystem\TokenSystem\obj\Debug\TokenSystem.csproj.GenerateResource.Cache

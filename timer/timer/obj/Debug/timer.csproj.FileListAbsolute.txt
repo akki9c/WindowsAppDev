@@ -1,0 +1,9 @@
+E:\projects c#\timer\timer\bin\Debug\timer.exe.config
+E:\projects c#\timer\timer\bin\Debug\timer.exe
+E:\projects c#\timer\timer\bin\Debug\timer.pdb
+E:\projects c#\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+E:\projects c#\timer\timer\obj\Debug\timer.Form1.resources
+E:\projects c#\timer\timer\obj\Debug\timer.Properties.Resources.resources
+E:\projects c#\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+E:\projects c#\timer\timer\obj\Debug\timer.exe
+E:\projects c#\timer\timer\obj\Debug\timer.pdb

@@ -1,0 +1,28 @@
+body {
+    background-color: #9AC3DA;
+    font-family: Arial;
+    color: #FFF;
+    margin: 0 auto;
+    width: 760px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0 10px 10px;   
+}
+
+.day {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #000;
+    background-color: #0000FF;
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+    float: left;
+}
+
+div:hover {
+    background-color: #EE55CC;
+}

@@ -1,0 +1,9 @@
+E:\projects c#\scrollbar\scrollbar\bin\Debug\scrollbar.exe.config
+E:\projects c#\scrollbar\scrollbar\bin\Debug\scrollbar.exe
+E:\projects c#\scrollbar\scrollbar\bin\Debug\scrollbar.pdb
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.csprojResolveAssemblyReference.cache
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.Form1.resources
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.Properties.Resources.resources
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.csproj.GenerateResource.Cache
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.exe
+E:\projects c#\scrollbar\scrollbar\obj\Debug\scrollbar.pdb

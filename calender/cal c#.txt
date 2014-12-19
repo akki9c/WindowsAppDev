@@ -1,0 +1,74 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Text;
+using System.Collections.Specialized;
+using System.Drawing;
+
+public partial class preForm : System.Web.UI.Page
+{
+    int counter;
+    int startMonth = 10;
+    int startYear = 2008;
+    int month;
+    int year;
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!Page.IsPostBack)
+        {
+            counter = 1;
+            update(startMonth, startYear);
+        }
+    }
+
+    protected void update(int newMonth, int newYear)
+    {
+        int processMonth = newMonth - 1;
+        int processYear = newYear - 1;
+
+        DateTime dt = new DateTime();
+        DateTime dt2 = dt.Date.AddMonths(processMonth).AddYears(processYear);
+        string monthNow = dt2.ToString("MMMM");
+        int monthNowNumber = dt2.Month;
+        int yearNow = dt2.Year;
+        int monthDays = DateTime.DaysInMonth(yearNow, monthNowNumber);
+
+        Page.Title = monthNow + " " + yearNow;
+
+        Response.Write("<h1 id=\"headline\" runat=\"server\">" + monthNow + " " + yearNow + "</h1>");
+
+        for (int i = 1; i < (monthDays + 1); i++)
+        {
+            Response.Write("<div id=\"day" + i + "\" class=\"day\" runat=\"server\"><p>" + i + "</p></div>");
+        }
+
+    }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        Response.Clear();
+        counter++;
+        if (counter >= 1)
+        {
+            month = startMonth + counter;
+            if (month >= 12)
+            {
+                year++;
+            }
+            else
+            {
+                year = startYear;
+            }
+            update(month, year);
+        }
+    }
+}
+

@@ -1,0 +1,10 @@
+E:\projects c#\chatSample\chatSample\bin\Debug\chatSample.exe.config
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.csprojResolveAssemblyReference.cache
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.Properties.Resources.resources
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.csproj.GenerateResource.Cache
+E:\projects c#\chatSample\chatSample\bin\Debug\chatSample.exe
+E:\projects c#\chatSample\chatSample\bin\Debug\chatSample.pdb
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.Form1.resources
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.exe
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.pdb
+E:\projects c#\chatSample\chatSample\obj\Debug\chatSample.downloadingBar.resources

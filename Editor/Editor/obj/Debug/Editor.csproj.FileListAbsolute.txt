@@ -1,0 +1,9 @@
+E:\projects c#\Editor\Editor\bin\Debug\Editor.exe.config
+E:\projects c#\Editor\Editor\bin\Debug\Editor.exe
+E:\projects c#\Editor\Editor\bin\Debug\Editor.pdb
+E:\projects c#\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+E:\projects c#\Editor\Editor\obj\Debug\Editor.Form1.resources
+E:\projects c#\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+E:\projects c#\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+E:\projects c#\Editor\Editor\obj\Debug\Editor.exe
+E:\projects c#\Editor\Editor\obj\Debug\Editor.pdb
